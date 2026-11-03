@@ -1,0 +1,22 @@
+# Simulator-generated files
+work/
+transcript
+transcript.log
+vsim.wlf
+*.wlf
+*.vcd
+*.fsdb
+*.vpd
+
+# Compiled simulation output
+simv
+simv.daidir/
+csrc/
+*.o
+*.so
+
+# Editor and operating-system files
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
