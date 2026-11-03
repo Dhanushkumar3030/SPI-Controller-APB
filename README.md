@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements an SPI (Serial Peripheral Interface) controller with an APB (Advanced Peripheral Bus) interface. It was developed in the context of VLSI design training at Maven Silicon and is presented as a portfolio project demonstrating RTL design, digital interface concepts, and simulation-based verification.
+This project implements an SPI (Serial Peripheral Interface) controller with an APB (Advanced Peripheral Bus) interface. The project demonstrating RTL design, digital interface concepts, and simulation-based verification.
 
 The design integrates APB register access with SPI control, serial data transmission and reception, baud-rate generation, and slave-select control.
 
